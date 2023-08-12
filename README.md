@@ -1,5 +1,7 @@
 # JOOQ - Spring-Boot Sample
 
+[![Java CI with Maven](https://github.com/shaunthomas999/my-jooq-spring-boot-sample/actions/workflows/maven.yml/badge.svg)](https://github.com/shaunthomas999/my-jooq-spring-boot-sample/actions/workflows/maven.yml)
+
 ## Reference
 
 * https://boottechnologies-ci.medium.com/spring-boot-with-jooq-and-postgresql-4a86378a4e5e (not that easy to follow along)
