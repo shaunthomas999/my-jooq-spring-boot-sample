@@ -6,6 +6,7 @@
   * Code reference - https://github.com/anicetkeric/spring-boot-jooq
 * https://www.baeldung.com/jooq-with-spring
   * https://www.baeldung.com/spring-boot-support-for-jooq
+
 ## Database setup
 
 * Connect to local Postgresql database using command `psql -U postgres`
@@ -14,3 +15,4 @@
 CREATE ROLE dev SUPERUSER LOGIN PASSWORD 'qwerty';
 CREATE DATABASE "librarydb" OWNER "dev";
 ```
+

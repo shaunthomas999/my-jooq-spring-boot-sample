@@ -1,4 +1,4 @@
-package io.shaunthomas.jooq;
+package io.shaunthomas.jooq.repository;
 
 import io.shaunthomas.jooq.model.tables.pojos.Book;
 import io.shaunthomas.jooq.model.tables.records.BookRecord;
